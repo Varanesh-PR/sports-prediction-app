@@ -1,11 +1,27 @@
-team1,team2,toss_winner,winner
-Mumbai Indians,Chennai Super Kings,Mumbai Indians,Mumbai Indians
-Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders
-Delhi Capitals,Mumbai Indians,Delhi Capitals,Mumbai Indians
-Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings
-Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad
-Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Delhi Capitals
-Mumbai Indians,Rajasthan Royals,Mumbai Indians,Rajasthan Royals
-Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings
-Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore
-Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Mumbai Indians
+team1,team2,toss_winner,batsman,runs,winner
+CSK,MI,CSK,Dhoni,45,CSK
+MI,RCB,MI,Rohit,60,MI
+RCB,CSK,RCB,Kohli,70,RCB
+KKR,MI,KKR,Russell,55,KKR
+SRH,CSK,SRH,Warner,65,SRH
+MI,CSK,MI,Rohit,30,CSK
+RCB,KKR,RCB,Kohli,80,RCB
+CSK,SRH,CSK,Dhoni,50,CSK
+MI,KKR,MI,Rohit,75,MI
+SRH,RCB,SRH,Warner,40,RCB
+CSK,MI,MI,Dhoni,20,MI
+KKR,RCB,KKR,Russell,90,KKR
+SRH,MI,SRH,Warner,85,SRH
+CSK,KKR,CSK,Dhoni,60,CSK
+RCB,MI,RCB,Kohli,100,RCB
+MI,SRH,MI,Rohit,45,MI
+KKR,CSK,KKR,Russell,70,KKR
+SRH,RCB,SRH,Warner,95,SRH
+CSK,RCB,CSK,Dhoni,55,CSK
+MI,KKR,MI,Rohit,65,MI
+CSK,SRH,SRH,Dhoni,40,SRH
+RCB,MI,MI,Kohli,35,MI
+KKR,SRH,KKR,Russell,88,KKR
+MI,CSK,CSK,Rohit,20,CSK
+RCB,CSK,RCB,Kohli,77,RCB
+SRH,KKR,SRH,Warner,68,SRH
